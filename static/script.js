@@ -1,4 +1,4 @@
-const API_BASE_URL = 'http://127.0.0.1:5000';
+const API_BASE_URL = 'const API_BASE_URL = window.location.origin;';
 
 // 1. App State Data Model
 let appState = {
